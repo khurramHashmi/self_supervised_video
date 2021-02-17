@@ -1,0 +1,14 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - flask
+  - accimage
+  - pytorch==1.4.0
+  - numpy
+  - pandas
+  - pillow
+  - tqdm
+  - scikit-learn
+  - torchvision
